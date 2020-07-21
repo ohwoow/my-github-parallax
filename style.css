@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ceba8f;
+    overflow: hidden;
+}
+
+img {
+    display: block;
+}
+
+.parallax {
+    position: relative;
+}
+
+.parallax-img {
+    position: absolute;
+}
+
+.bg {
+    width: 110%;
+    height: 50vh;
+    top: -20px;
+    left: -10%;
+    right: 0;
+}
+
+.house1 {
+    right: 25%;
+    top: 170px;
+}
+
+.house2 {
+    right: 30%;
+    top: 146px;
+}
+
+.starship {
+    left: 38%;
+    top: 208px;
+}
+
+.magic-cat {
+    left: 32%;
+    top: 162px;
+}
